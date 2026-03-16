@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(16, 16, 16);
+  text-align: center;
+}
+
+.titulo {
+  color: rgb(36, 234, 128);
+  background-color: aquamarine
+}
+
+.button {
+  background-color: rgb(25, 167, 25);
+}
+
+.button2 {
+  background-color: goldenrod;
+}
